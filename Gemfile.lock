@@ -389,7 +389,7 @@ GEM
     typhoeus (0.3.3)
       mime-types
     tzinfo (0.3.37)
-    uglifier (2.0.1)
+    uglifier (2.1.1)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
     unicorn (4.6.2)
@@ -482,7 +482,7 @@ DEPENDENCIES
   timecop (= 0.6.1)
   twitter (= 4.6.2)
   typhoeus (= 0.3.3)
-  uglifier (= 2.0.1)
+  uglifier (= 2.1.1)
   unicorn (= 4.6.2)
   webmock (= 1.8.11)
   will_paginate (= 3.0.4)
