@@ -36,7 +36,7 @@ configuration: ## Section
     ## However changing http to https is okay and has no consequences.
     ## If you do change it you have to start over as it's hardcoded into
     ## the database.
-    #url: "https://example.org/"
+    url: "http://ec2-107-21-220-164.compute-1.amazonaws.com/"
     
     ## Setting the bundle of certificate authorities (CA) certificates.
     ## This is operating system specific.
@@ -192,7 +192,7 @@ configuration: ## Section
   
     ## The name of your pod displayed in various locations,
     ## including the header.
-    #pod_name: "Diaspora*"
+    pod_name: "Electrolory"
     
     ## Set this to false to prevent people from signing up for your pod
     ## without an invitation. Note that this needs to be true even for
